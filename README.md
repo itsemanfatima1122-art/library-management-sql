@@ -51,8 +51,7 @@ These tables are connected using primary and foreign keys.
 - Rank books based on issue frequency
 
 ---
-
-## Example Query
+```sql
 -- Find the most active members based on number of books issued
 
 SELECT 
@@ -64,6 +63,4 @@ JOIN issued_status
 ON members.member_id = issued_status.issued_member_id
 GROUP BY members.member_id, members.member_name
 ORDER BY total_books DESC
-limit 3;
 LIMIT 3;
-
