@@ -4,6 +4,10 @@
 This project demonstrates the implementation of a Library Management System using SQL. It includes database creation, table relationships, and queries to manage and analyze library data.
 
 The project focuses on using SQL for data manipulation and extracting meaningful insights.
+### ER Diagram
+
+![ER Diagram](images/er_diagram.png)
+
 
 ---
 
