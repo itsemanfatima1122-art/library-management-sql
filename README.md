@@ -6,7 +6,7 @@ This project demonstrates the implementation of a Library Management System usin
 The project focuses on using SQL for data manipulation and extracting meaningful insights.
 ### ER Diagram
 
-![ER Diagram](images/er_diagram.png)
+![ER Diagram](https://github.com/itsemanfatima1122-art/library-management-sql/blob/f8b121b1a2d94e536cd5a949e5cff4548d5b6eff/library%20system.png)
 
 
 ---
